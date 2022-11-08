@@ -1,0 +1,17 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "X5AWAZX948.com.imgur.Imgur",
+            "paths": ["*"]
+
+        }]
+    },
+
+    "activitycontinuation": {
+        "apps": [
+            "X5AWAZX948.com.imgur.Imgur"
+        ]
+
+    }
+}
